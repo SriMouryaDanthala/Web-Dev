@@ -5,6 +5,10 @@ ol {
 }
 
 /* Write your CSS below, don't change the rules above. */
+.note{
+  font-size: 20px;
+}
+
 p{
   color: red;
 }
