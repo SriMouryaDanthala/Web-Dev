@@ -1,0 +1,8 @@
+.container{
+    display: flex;
+    background-color: yellow;
+    flex-wrap: wrap;
+    height: 10%;
+    gap : 10px;
+}
+
