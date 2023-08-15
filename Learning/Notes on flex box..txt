@@ -32,3 +32,19 @@ when the flex-basis property is set then the changes are reflected in the main-a
 
 flex basis determines the height or width of the flex item based on the main-axis.
 
+
+Order property
+_____________________
+
+1. this has to be applied on the flex items not on the container.
+2. order : value;
+3. higher the value the right most or the bottom most the item gets placed.
+
+wrap property:
+____________________________
+
+1. this must be applied on the parent (container).
+2. when the elements go out of range the wrap propety arranges them down.
+3. by default flex-wrap:nowrap;
+4. flex-wrap : wrap; // to be set.
+
